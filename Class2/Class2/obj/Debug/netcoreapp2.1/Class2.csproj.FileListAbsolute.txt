@@ -1,0 +1,3 @@
+C:\Users\MaxTech\source\repos\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.csproj.CoreCompileInputs.cache
+C:\Users\MaxTech\source\repos\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.AssemblyInfoInputs.cache
+C:\Users\MaxTech\source\repos\Class2\Class2\obj\Debug\netcoreapp2.1\Class2.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\repos\C#\StackProject\StackProject\bin\Debug\netcoreapp2.1\StackProject.deps.json
+C:\repos\C#\StackProject\StackProject\bin\Debug\netcoreapp2.1\StackProject.runtimeconfig.json
+C:\repos\C#\StackProject\StackProject\bin\Debug\netcoreapp2.1\StackProject.runtimeconfig.dev.json
+C:\repos\C#\StackProject\StackProject\bin\Debug\netcoreapp2.1\StackProject.dll
+C:\repos\C#\StackProject\StackProject\bin\Debug\netcoreapp2.1\StackProject.pdb
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.csproj.CoreCompileInputs.cache
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.AssemblyInfoInputs.cache
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.AssemblyInfo.cs
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.dll
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.pdb
+C:\repos\C#\StackProject\StackProject\obj\Debug\netcoreapp2.1\StackProject.csprojAssemblyReference.cache
